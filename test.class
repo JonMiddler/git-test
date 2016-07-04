@@ -1,1 +1,6 @@
 print("test");
+class lepro{
+	lepro()
+	System.out.println("null");
+	
+}
