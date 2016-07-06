@@ -2,5 +2,6 @@ print("test");
 class lepro{
 	lepro()
 	System.out.println("null");
-	
+	for (int count = 1; count<10; count++)
+		System.out.print("dd " + count*15);
 }
